@@ -37,5 +37,5 @@ For this assingment Project, the following changes from the original data were m
 
 ### Creates a second, independent tidy data set with the average of each variable for each activity and each subject. (step 5) 
 * aggregate by mean of all filtered columns observations by activity and subject;
-* write the final CSV file ** ("tidy_project_Activity.csv") **
+* write the final CSV file ** ("tidy_project_Activity.txt") **
 

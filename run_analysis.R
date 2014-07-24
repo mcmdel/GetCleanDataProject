@@ -69,6 +69,6 @@ setwd(".\\GetCleanDataProject")
 # Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
   final <- aggregate(subset(allDataMerge,select=listField),by=list(activity=allDataMerge$activity,id.subject=allDataMerge$id.subject), FUN = mean)
   
-  write.csv(final,"..\\tidy_project_Activity.csv")
+  write.csv(final,"..\\tidy_project_Activity.txt")
 
   setwd(current)
