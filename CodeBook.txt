@@ -1,0 +1,76 @@
+Code Book
+=========
+
+As a result of this assingment Project, we have the list of selected features, only referring to the "mean" and their "std" as below, obtained from the average of the observations made ​​by activity and subject:
+
+Fields of the final CSV file (tidy_project_Activity.csv):
+
+activity: Description of the activity
+id.subject: Id of the subject
+tBodyAcc-mean()-X: mean of the mesuares of this feature
+tBodyAcc-mean()-Y: mean of the mesuares of this feature
+tBodyAcc-mean()-Z: mean of the mesuares of this feature
+tGravityAcc-mean()-X: mean of the mesuares of this feature
+tGravityAcc-mean()-Y: mean of the mesuares of this feature
+tGravityAcc-mean()-Z: mean of the mesuares of this feature
+tBodyAccJerk-mean()-X: mean of the mesuares of this feature
+tBodyAccJerk-mean()-Y: mean of the mesuares of this feature
+tBodyAccJerk-mean()-Z: mean of the mesuares of this feature
+tBodyGyro-mean()-X: mean of the mesuares of this feature
+tBodyGyro-mean()-Y: mean of the mesuares of this feature
+tBodyGyro-mean()-Z: mean of the mesuares of this feature
+tBodyGyroJerk-mean()-X: mean of the mesuares of this feature
+tBodyGyroJerk-mean()-Y: mean of the mesuares of this feature
+tBodyGyroJerk-mean()-Z: mean of the mesuares of this feature
+tBodyAccMag-mean(): mean of the mesuares of this feature
+tGravityAccMag-mean(): mean of the mesuares of this feature
+tBodyAccJerkMag-mean(): mean of the mesuares of this feature
+tBodyGyroMag-mean(): mean of the mesuares of this feature
+tBodyGyroJerkMag-mean(): mean of the mesuares of this feature
+fBodyAcc-mean()-X: mean of the mesuares of this feature
+fBodyAcc-mean()-Y: mean of the mesuares of this feature
+fBodyAcc-mean()-Z: mean of the mesuares of this feature
+fBodyAccJerk-mean()-X: mean of the mesuares of this feature
+fBodyAccJerk-mean()-Y: mean of the mesuares of this feature
+fBodyAccJerk-mean()-Z: mean of the mesuares of this feature
+fBodyGyro-mean()-X: mean of the mesuares of this feature
+fBodyGyro-mean()-Y: mean of the mesuares of this feature
+fBodyGyro-mean()-Z: mean of the mesuares of this feature
+fBodyAccMag-mean(): mean of the mesuares of this feature
+fBodyBodyAccJerkMag-mean(): mean of the mesuares of this feature
+fBodyBodyGyroMag-mean(): mean of the mesuares of this feature
+fBodyBodyGyroJerkMag-mean(): mean of the mesuares of this feature
+tBodyAcc-std()-X: mean of the mesuares of this feature
+tBodyAcc-std()-Y: mean of the mesuares of this feature
+tBodyAcc-std()-Z: mean of the mesuares of this feature
+tGravityAcc-std()-X: mean of the mesuares of this feature
+tGravityAcc-std()-Y: mean of the mesuares of this feature
+tGravityAcc-std()-Z: mean of the mesuares of this feature
+tBodyAccJerk-std()-X: mean of the mesuares of this feature
+tBodyAccJerk-std()-Y: mean of the mesuares of this feature
+tBodyAccJerk-std()-Z: mean of the mesuares of this feature
+tBodyGyro-std()-X: mean of the mesuares of this feature
+tBodyGyro-std()-Y: mean of the mesuares of this feature
+tBodyGyro-std()-Z: mean of the mesuares of this feature
+tBodyGyroJerk-std()-X: mean of the mesuares of this feature
+tBodyGyroJerk-std()-Y: mean of the mesuares of this feature
+tBodyGyroJerk-std()-Z: mean of the mesuares of this feature
+tBodyAccMag-std(): mean of the mesuares of this feature
+tGravityAccMag-std(): mean of the mesuares of this feature
+tBodyAccJerkMag-std(): mean of the mesuares of this feature
+tBodyGyroMag-std(): mean of the mesuares of this feature
+tBodyGyroJerkMag-std(): mean of the mesuares of this feature
+fBodyAcc-std()-X: mean of the mesuares of this feature
+fBodyAcc-std()-Y: mean of the mesuares of this feature
+fBodyAcc-std()-Z: mean of the mesuares of this feature
+fBodyAccJerk-std()-X: mean of the mesuares of this feature
+fBodyAccJerk-std()-Y: mean of the mesuares of this feature
+fBodyAccJerk-std()-Z: mean of the mesuares of this feature
+fBodyGyro-std()-X: mean of the mesuares of this feature
+fBodyGyro-std()-Y: mean of the mesuares of this feature
+fBodyGyro-std()-Z: mean of the mesuares of this feature
+fBodyAccMag-std(): mean of the mesuares of this feature
+fBodyBodyAccJerkMag-std(): mean of the mesuares of this feature
+fBodyBodyGyroMag-std(): mean of the mesuares of this feature
+fBodyBodyGyroJerkMag-std(): mean of the mesuares of this feature
+
